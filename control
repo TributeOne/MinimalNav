@@ -1,0 +1,10 @@
+Package: de.victorien.minimalnav
+Name: MinimalNav
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: Hides the bottom tab bar of the YouTube app and adds a profile button next to search.
+Maintainer: Victorien
+Author: Victorien
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 14.0)
+Homepage: https://github.com/TributeOne/MinimalNav
